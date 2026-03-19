@@ -1,33 +1,56 @@
 # Mohammad Ahmad 👨‍💻
 
-I build modern web applications that are **fast, scalable, and enjoyable to use**.
+**Frontend-focused Full-Stack Developer** building web applications that feel **fast, scalable, and enjoyable to use**.
 
-As a Frontend-focused Full-Stack Developer, I specialize in turning complex product ideas into clean, high-performance experiences using **React, TypeScript, and Next.js**. I care deeply about the details that shape great products — from responsive UI and accessibility to performance optimization and maintainable architecture. On the backend, I work with **Node.js**, **Fastify**, **Express**, **Prisma**, and **Drizzle ORM** to deliver complete end-to-end solutions.
+I turn complex product ideas into clean, high-performance experiences with **React, TypeScript, and Next.js**. I care about the details that make products feel great — from responsiveness and accessibility to performance optimization and maintainable architecture. On the backend, I work with **Node.js**, **Fastify**, **Express**, **Prisma**, and **Drizzle ORM** to build complete end-to-end solutions.
 
-## Tech Stack
+---
 
-**Frontend**  
-React · TypeScript · Next.js · Tailwind CSS · Vite · TanStack Query · TanStack Table · TanStack Router
+### Navigate
+[Stack](#-stack) • [What I Build](#-what-i-build) • [Interests](#-interests) • [Background](#-background) • [Contact](#-contact)
 
-**Backend**  
-Node.js · Express · Fastify · REST APIs · WebSockets · Prisma · Drizzle ORM
+---
 
-**Databases**  
-PostgreSQL · MySQL · MongoDB
+## 🧰 Stack
 
-**Testing & Delivery**  
-Jest · React Testing Library · Playwright · GitHub Actions · Docker
+<details open>
+  <summary><strong>Frontend</strong></summary>
+  <br />
+  React · TypeScript · Next.js · Tailwind CSS · Vite · TanStack Query · TanStack Table · TanStack Router
+</details>
 
-## Focus Areas
+<details>
+  <summary><strong>Backend</strong></summary>
+  <br />
+  Node.js · Express · Fastify · REST APIs · WebSockets · Prisma · Drizzle ORM
+</details>
 
-- Performance-first frontend development
+<details>
+  <summary><strong>Data & Delivery</strong></summary>
+  <br />
+  PostgreSQL · MySQL · MongoDB · Jest · React Testing Library · Playwright · GitHub Actions · Docker
+</details>
+
+## ⚡ What I Build
+
+<details open>
+  <summary><strong>Areas I enjoy working on</strong></summary>
+  <br />
+
+- High-performance frontend applications
 - Real-time and data-heavy interfaces
 - Accessible, responsive, mobile-first UI
 - Reusable component systems
 - Scalable frontend architecture
 - Full-stack product development
 
-## Interests
+</details>
+
+## 🧠 Interests
+
+<details>
+  <summary><strong>Topics I care about</strong></summary>
+  <br />
 
 - Performance engineering
 - Core Web Vitals
@@ -36,30 +59,29 @@ Jest · React Testing Library · Playwright · GitHub Actions · Docker
 - Clean architecture
 - Frontend scalability
 
-## Background
+</details>
+
+## 🎓 Background
+
+<details>
+  <summary><strong>Quick snapshot</strong></summary>
+  <br />
 
 - B.Sc. in Computer Science
 - Meta React Specialization
 - Based in Munich, Germany
 - Open to relocation
 
-## Connect
+</details>
+
+## 🤝 Contact
+
+<details open>
+  <summary><strong>Find me here</strong></summary>
+  <br />
 
 - 🌐 Portfolio: [zero-inky-nine.vercel.app](https://zero-inky-nine.vercel.app)
 - 💼 LinkedIn: [linkedin.com/in/mohammad-software-dev](https://linkedin.com/in/mohammad-software-dev)
 - 📫 Email: [mail.mohammad.ahmad@gmail.com](mailto:mail.mohammad.ahmad@gmail.com)
 
-<!--
-**Mohammad-Software-Dev/Mohammad-Software-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</details>
