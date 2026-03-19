@@ -13,29 +13,16 @@ I turn complex product ideas into clean, high-performance experiences with **Rea
 
 ## 🧰 Stack
 
-<details open>
-  <summary><strong>Frontend</strong></summary>
-  <br />
-  React · TypeScript · Next.js · Tailwind CSS · Vite · TanStack Query · TanStack Table · TanStack Router
-</details>
+**Frontend**  
+React · TypeScript · Next.js · Tailwind CSS · Vite · TanStack Query · TanStack Table · TanStack Router
 
-<details>
-  <summary><strong>Backend</strong></summary>
-  <br />
-  Node.js · Express · Fastify · REST APIs · WebSockets · Prisma · Drizzle ORM
-</details>
+**Backend**  
+Node.js · Express · Fastify · REST APIs · WebSockets · Prisma · Drizzle ORM
 
-<details>
-  <summary><strong>Data & Delivery</strong></summary>
-  <br />
-  PostgreSQL · MySQL · MongoDB · Jest · React Testing Library · Playwright · GitHub Actions · Docker
-</details>
+**Data & Delivery**  
+PostgreSQL · MySQL · MongoDB · Jest · React Testing Library · Playwright · GitHub Actions · Docker
 
 ## ⚡ What I Build
-
-<details open>
-  <summary><strong>Areas I enjoy working on</strong></summary>
-  <br />
 
 - High-performance frontend applications
 - Real-time and data-heavy interfaces
@@ -44,13 +31,7 @@ I turn complex product ideas into clean, high-performance experiences with **Rea
 - Scalable frontend architecture
 - Full-stack product development
 
-</details>
-
 ## 🧠 Interests
-
-<details>
-  <summary><strong>Topics I care about</strong></summary>
-  <br />
 
 - Performance engineering
 - Core Web Vitals
@@ -59,29 +40,15 @@ I turn complex product ideas into clean, high-performance experiences with **Rea
 - Clean architecture
 - Frontend scalability
 
-</details>
-
 ## 🎓 Background
-
-<details>
-  <summary><strong>Quick snapshot</strong></summary>
-  <br />
 
 - B.Sc. in Computer Science
 - Meta React Specialization
 - Based in Munich, Germany
 - Open to relocation
 
-</details>
-
 ## 🤝 Contact
-
-<details open>
-  <summary><strong>Find me here</strong></summary>
-  <br />
 
 - 🌐 Portfolio: [zero-inky-nine.vercel.app](https://zero-inky-nine.vercel.app)
 - 💼 LinkedIn: [linkedin.com/in/mohammad-software-dev](https://linkedin.com/in/mohammad-software-dev)
 - 📫 Email: [mail.mohammad.ahmad@gmail.com](mailto:mail.mohammad.ahmad@gmail.com)
-
-</details>
