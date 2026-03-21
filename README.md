@@ -1,7 +1,7 @@
 # Mohammad Ahmad 👨‍💻
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1400&color=58A6FF&center=true&vCenter=true&width=780&lines=Frontend-focused+Full-Stack+Developer;React+%7C+TypeScript+%7C+Next.js;Building+fast%2C+scalable%2C+accessible+web+apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1400&color=58A6FF&center=true&vCenter=true&width=760&lines=Frontend-focused+Full-Stack+Developer;React+%7C+TypeScript+%7C+Next.js;Fast%2C+scalable%2C+accessible+experiences" alt="Typing SVG" />
 </p>
 
 Frontend-focused Full-Stack Developer building web applications that feel **fast, scalable, and enjoyable to use**.
