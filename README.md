@@ -130,7 +130,11 @@ Git · GitHub · GitHub Actions · Docker · npm · pnpm · Vercel · Figma
 ## 🐍 Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Mohammad-Software-Dev/Mohammad-Software-Dev/output/snake.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mohammad-Software-Dev/Mohammad-Software-Dev/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mohammad-Software-Dev/Mohammad-Software-Dev/output/snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Mohammad-Software-Dev/Mohammad-Software-Dev/output/snake.svg" />
+  </picture>
 </p>
 
 > To make the snake animation work, you’ll need to generate `output/snake.svg` with a GitHub Action in your profile repo.
