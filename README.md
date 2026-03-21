@@ -1,9 +1,10 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:1D4ED8,100:22D3EE&height=200&section=header&text=Mohammad%20Ahmad&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:1D4ED8,100:22D3EE&height=220&section=header&text=Mohammad%20Ahmad&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Frontend-focused%20Full-Stack%20Developer&descAlignY=55&descSize=16" />
 
 <h1 align="center">Mohammad Ahmad 👨‍💻</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1400&color=58A6FF&center=true&vCenter=true&width=820&lines=Frontend-focused+Full-Stack+Developer;React+%7C+TypeScript+%7C+Next.js;Building+fast%2C+scalable%2C+accessible+web+apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1400&color=58A6FF&center=true&vCenter=true&width=900&lines=Frontend-focused+Full-Stack+Developer;React+%7C+TypeScript+%7C+Next.js;Building+fast%2C+scalable%2C+accessible+web+apps;Turning+complex+ideas+into+clean+product+experiences" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -13,7 +14,7 @@
 
 <p align="center">
   I turn complex product ideas into clean, high-performance experiences with
-  <b>React, TypeScript, and Next.js</b>, and build complete end-to-end solutions with
+  <b>React, TypeScript, and Next.js</b>, and build end-to-end solutions with
   <b>Node.js, Fastify, Express, Prisma, and Drizzle ORM</b>.
 </p>
 
@@ -33,17 +34,20 @@
   <img src="https://komarev.com/ghpvc/?username=Mohammad-Software-Dev&style=for-the-badge&color=58A6FF" alt="Profile views" />
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:58A6FF,100:22D3EE&height=2&section=header" width="100%" />
+</p>
 
 ### Navigate
-[Stack](#-stack) • [What I Build](#-what-i-build) • [Current Focus](#-current-focus) • [Interests](#-interests) • [Background](#-background) • [Stats](#-stats) • [Contact](#-contact)
+
+[Stack](#-stack) • [What I Build](#-what-i-build) • [Current Focus](#-current-focus) • [Highlights](#-highlights) • [Background](#-background) • [Stats](#-stats) • [Contact](#-contact)
 
 ---
 
 ## 🧰 Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite,redux,graphql,nodejs,express,postgres,mysql,mongodb,docker,git,github,githubactions,jest&perline=10" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite,redux,graphql,nodejs,express,postgres,mysql,mongodb,docker,git,github,githubactions,jest,npm,pnpm,vercel,figma&perline=8" alt="Tech Stack Icons" />
 </p>
 
 **Frontend**  
@@ -83,14 +87,21 @@ Git · GitHub · GitHub Actions · Docker · npm · pnpm · Vercel · Figma
 
 ---
 
-## 🧠 Interests
+## ✨ Highlights
 
-- Performance engineering
-- Core Web Vitals
-- UX and interaction design
-- Design systems
-- Clean architecture
-- Frontend scalability
+- Performance-minded frontend engineering
+- Strong focus on user experience and interaction quality
+- Clean architecture and maintainable codebases
+- Product-oriented thinking from UI to backend delivery
+
+---
+
+## 🧠 Developer Mindset
+
+- Performance-first engineering
+- Accessible and scalable UI
+- Clean, maintainable architecture
+- Product thinking from interface to backend
 
 ---
 
@@ -116,6 +127,16 @@ Git · GitHub · GitHub Actions · Docker · npm · pnpm · Vercel · Figma
 
 ---
 
+## 🐍 Contribution Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Mohammad-Software-Dev/Mohammad-Software-Dev/output/snake.svg" alt="Snake animation" />
+</p>
+
+> To make the snake animation work, you’ll need to generate `output/snake.svg` with a GitHub Action in your profile repo.
+
+---
+
 ## 🤝 Contact
 
 <p align="center">
@@ -129,3 +150,4 @@ Git · GitHub · GitHub Actions · Docker · npm · pnpm · Vercel · Figma
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,50:1D4ED8,100:0F2027&height=120&section=footer" />
+
