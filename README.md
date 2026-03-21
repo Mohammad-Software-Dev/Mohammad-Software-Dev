@@ -1,7 +1,4 @@
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:1D4ED8,100:22D3EE&height=220&section=header&text=Mohammad%20Ahmad&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Frontend-focused%20Full-Stack%20Developer&descAlignY=55&descSize=16" />
-
-<h1 align="center">Mohammad Ahmad 👨‍💻</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1400&color=58A6FF&center=true&vCenter=true&width=900&lines=Frontend-focused+Full-Stack+Developer;React+%7C+TypeScript+%7C+Next.js;Building+fast%2C+scalable%2C+accessible+web+apps;Turning+complex+ideas+into+clean+product+experiences" alt="Typing SVG" />
@@ -40,7 +37,7 @@
 
 ### Navigate
 
-[Stack](#-stack) • [What I Build](#-what-i-build) • [Current Focus](#-current-focus) • [Highlights](#-highlights) • [Background](#-background) • [Stats](#-stats) • [Contact](#-contact)
+[Stack](#-stack) • [What I Build](#-what-i-build) • [Current Focus](#-current-focus) • [Highlights](#-highlights) • [Background](#-background) • [Stats](#-stats) • [Summary Cards](#-summary-cards) • [Recent Activity](#-recent-activity) • [Contact](#-contact)
 
 ---
 
@@ -127,6 +124,24 @@ Git · GitHub · GitHub Actions · Docker · npm · pnpm · Vercel · Figma
 
 ---
 
+## 🗂 Summary Cards
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mohammad-Software-Dev&theme=github_dark" alt="Profile Summary Card" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mohammad-Software-Dev&theme=github_dark" alt="Repos per language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mohammad-Software-Dev&theme=github_dark" alt="Most commit language" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mohammad-Software-Dev&theme=github_dark" alt="Stats card" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mohammad-Software-Dev&theme=github_dark&utcOffset=1" alt="Productive time" />
+</p>
+
+---
+
 ## 🐍 Contribution Activity
 
 <p align="center">
@@ -137,6 +152,14 @@ Git · GitHub · GitHub Actions · Docker · npm · pnpm · Vercel · Figma
   </picture>
 </p>
 
+---
+
+## 🕒 Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+> Add a GitHub Action to keep this section updated automatically with your latest public activity.
 
 ---
 
@@ -153,4 +176,3 @@ Git · GitHub · GitHub Actions · Docker · npm · pnpm · Vercel · Figma
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,50:1D4ED8,100:0F2027&height=120&section=footer" />
-
