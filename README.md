@@ -137,7 +137,6 @@ Git · GitHub · GitHub Actions · Docker · npm · pnpm · Vercel · Figma
   </picture>
 </p>
 
-> To make the snake animation work, you’ll need to generate `output/snake.svg` with a GitHub Action in your profile repo.
 
 ---
 
