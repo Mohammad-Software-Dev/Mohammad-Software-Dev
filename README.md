@@ -30,7 +30,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=58A6FF" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Mohammad-Software-Dev&style=for-the-badge&color=58A6FF" alt="Profile views" />
 </p>
 
 ---
@@ -43,17 +43,23 @@
 ## 🧰 Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,nextjs,tailwind,vite,nodejs,express,postgres,mysql,mongodb,docker,githubactions,jest&perline=7" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite,redux,graphql,nodejs,express,postgres,mysql,mongodb,docker,git,github,githubactions,jest&perline=10" alt="Tech Stack Icons" />
 </p>
 
 **Frontend**  
-React · TypeScript · Next.js · Tailwind CSS · Vite · TanStack Query · TanStack Table · TanStack Router
+HTML · CSS · JavaScript · TypeScript · React · Next.js · Tailwind CSS · Vite · TanStack Query · TanStack Table · TanStack Router · Redux Toolkit · Zod
 
 **Backend**  
-Node.js · Express · Fastify · REST APIs · WebSockets · Prisma · Drizzle ORM
+Node.js · Express · Fastify · REST APIs · WebSockets · GraphQL · Prisma · Drizzle ORM
 
-**Data & Delivery**  
-PostgreSQL · MySQL · MongoDB · Jest · React Testing Library · Playwright · GitHub Actions · Docker
+**Databases**  
+PostgreSQL · MySQL · MongoDB
+
+**Testing**  
+Jest · React Testing Library · Playwright
+
+**Tools & Delivery**  
+Git · GitHub · GitHub Actions · Docker · npm · pnpm · Vercel · Figma
 
 ---
 
@@ -100,12 +106,12 @@ PostgreSQL · MySQL · MongoDB · Jest · React Testing Library · Playwright ·
 ## 📊 Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=22D3EE&text_color=c9d1d9&rank_icon=github" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=c9d1d9" alt="Top Languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Mohammad-Software-Dev&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=22D3EE&text_color=c9d1d9&rank_icon=github" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad-Software-Dev&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=c9d1d9" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=transparent&hide_border=true&ring=58A6FF&fire=22D3EE&currStreakLabel=58A6FF" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Mohammad-Software-Dev&theme=transparent&hide_border=true&ring=58A6FF&fire=22D3EE&currStreakLabel=58A6FF" alt="GitHub Streak" />
 </p>
 
 ---
