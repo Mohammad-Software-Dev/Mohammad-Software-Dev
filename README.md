@@ -159,7 +159,6 @@ Git · GitHub · GitHub Actions · Docker · npm · pnpm · Vercel · Figma
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
-> Add a GitHub Action to keep this section updated automatically with your latest public activity.
 
 ---
 
