@@ -1,8 +1,12 @@
 # Mohammad Ahmad 👨‍💻
 
-**Frontend-focused Full-Stack Developer** building web applications that feel **fast, scalable, and enjoyable to use**.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1400&color=58A6FF&center=true&vCenter=true&width=780&lines=Frontend-focused+Full-Stack+Developer;React+%7C+TypeScript+%7C+Next.js;Building+fast%2C+scalable%2C+accessible+web+apps" alt="Typing SVG" />
+</p>
 
-I turn complex product ideas into clean, high-performance experiences with **React, TypeScript, and Next.js**. I care about the details that make products feel great — from responsiveness and accessibility to performance optimization and maintainable architecture. On the backend, I work with **Node.js**, **Fastify**, **Express**, **Prisma**, and **Drizzle ORM** to build complete end-to-end solutions.
+Frontend-focused Full-Stack Developer building web applications that feel **fast, scalable, and enjoyable to use**.
+
+I turn complex product ideas into clean, high-performance experiences with **React, TypeScript, and Next.js**. On the backend, I build complete end-to-end solutions with **Node.js**, **Fastify**, **Express**, **Prisma**, and **Drizzle ORM**.
 
 ---
 
