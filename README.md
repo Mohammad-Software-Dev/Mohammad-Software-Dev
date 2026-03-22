@@ -154,7 +154,7 @@ Git · GitHub · GitHub Actions · Docker · npm · pnpm · Vercel · Figma
 
 ---
 
-<!-- ## 🕒 Recent Activity -->
+## 🕒 Recent Activity
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
