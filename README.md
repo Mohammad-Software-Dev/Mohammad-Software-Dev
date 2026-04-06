@@ -114,11 +114,6 @@ Git · GitHub · GitHub Actions · Docker · npm · pnpm · Vercel · Figma
 ## 📊 Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Mohammad-Software-Dev&show_icons=true&hide_border=true&bg_color=00000000&title_color=58A6FF&icon_color=22D3EE&text_color=c9d1d9&rank_icon=github&cache_seconds=1800" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad-Software-Dev&layout=compact&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=c9d1d9&cache_seconds=1800" alt="Top Languages" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=Mohammad-Software-Dev&theme=transparent&hide_border=true&ring=58A6FF&fire=22D3EE&currStreakLabel=58A6FF" alt="GitHub Streak" />
 </p>
 
