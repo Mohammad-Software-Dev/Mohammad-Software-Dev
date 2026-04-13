@@ -1,17 +1,17 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:1D4ED8,100:22D3EE&height=220&section=header&text=Mohammad%20Ahmad&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Senior%20Full-Stack%20Developer&descAlignY=55&descSize=16" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:1D4ED8,100:22D3EE&height=220&section=header&text=Mohammad%20Ahmad&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Senior%20Full-Stack%20Developer%20%7C%20TypeScript%2C%20React%2C%20Node.js&descAlignY=55&descSize=16" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1400&color=58A6FF&center=true&vCenter=true&width=900&lines=Senior+Full-Stack+Developer;React+%7C+TypeScript+%7C+Next.js+%7C+Node.js;Building+fast%2C+scalable%2C+end-to-end+web+applications;Frontend+architecture+%7C+APIs+%7C+real-time+systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1400&color=58A6FF&center=true&vCenter=true&width=980&lines=Senior+Full-Stack+Developer;TypeScript+%7C+React+%7C+Node.js+%7C+NestJS;Building+performant%2C+scalable%2C+production+web+applications;Frontend+architecture+%7C+APIs+%7C+real-time+systems" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <b>Senior Full-Stack Developer</b> building web applications that are
-  <b>fast, scalable, and maintainable</b>.
+  <b>Senior Full-Stack Developer</b> building production web applications that are
+  <b>performant, scalable, and maintainable</b>.
 </p>
 
 <p align="center">
-  I build performant product interfaces with <b>React, TypeScript, and Next.js</b>,
-  and end-to-end backend solutions with <b>Node.js, NestJS, Fastify, Express, and Drizzle ORM</b>.
+  I build product interfaces with <b>React, TypeScript, and Next.js</b>, and deliver
+  backend capabilities with <b>Node.js, NestJS, Fastify, Express, and Drizzle ORM</b>.
 </p>
 
 <p align="center">
@@ -43,59 +43,57 @@
 ## 🧰 Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite,redux,graphql,nodejs,express,postgres,mysql,mongodb,docker,git,github,githubactions,jest,npm,pnpm,vercel,figma&perline=8" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite,redux,nodejs,express,graphql,postgres,mysql,mongodb,docker,git,github,githubactions,jest,npm,pnpm,vercel,figma,aws&perline=8" alt="Tech Stack Icons" />
 </p>
 
 **Frontend**  
-HTML · CSS · JavaScript · TypeScript · React · Next.js · Tailwind CSS · Vite · TanStack Query · TanStack Table · Redux Toolkit · Zod
+React · TypeScript · Next.js · Vite · Zustand · Redux · Tailwind CSS · Storybook · React Hook Form · Zod · Accessible UI
 
 **Backend**  
-Node.js · NestJS · Express · Fastify · REST APIs · GraphQL · WebSockets · Drizzle ORM · Prisma
+Node.js · NestJS · Fastify · Express · REST APIs · GraphQL APIs · WebSockets · Auth · API Integration · Background Jobs · Validation
 
-**Databases**  
-PostgreSQL · MySQL · MongoDB
+**Data & Performance**  
+PostgreSQL · MySQL · MongoDB · Drizzle ORM · Schema Migrations · Query Optimization · Core Web Vitals · Profiling · Render/State Optimization · Data-heavy UI
 
-**Testing**  
-Jest · React Testing Library · Playwright · Cypress
-
-**Tools & Delivery**  
-Git · GitHub · GitHub Actions · Docker · npm · pnpm · Vercel · Figma · Turborepo
+**Testing, DevOps & Tooling**  
+Jest · React Testing Library · Cypress · Playwright · GitHub Actions CI/CD · Docker · Turborepo · AWS · Terraform · Figma
 
 ---
 
 ## ⚡ What I Build
 
-- End-to-end web applications
-- High-performance frontend interfaces
-- Backend services and API integrations
-- Real-time and data-heavy product experiences
-- Accessible, responsive, mobile-first UI
-- Reusable systems across frontend and backend
+- Production web applications across frontend and backend
+- Chart-driven and data-heavy product experiences
+- Real-time and API-integrated workflows
+- Accessible, responsive, mobile-first interfaces
+- Reusable systems and maintainable architecture
+- End-to-end product features from UI to service integration
 
 ---
 
 ## 🚀 Current Focus
 
-- Building performant, scalable web applications across frontend and backend
-- Improving Core Web Vitals, runtime efficiency, and client-server data flow
-- Designing maintainable architecture for product and service layers
-- Creating reusable systems that support fast delivery and long-term scale
+- Building performant product experiences with strong frontend architecture
+- Delivering scalable backend capabilities with Node.js, NestJS, and Fastify
+- Improving runtime efficiency, data flow, and integration reliability
+- Designing reusable patterns that support fast delivery across teams
 
 ---
 
 ## ✨ Highlights
 
 - Strong React, TypeScript, and Next.js expertise
-- Production backend development with Node.js, NestJS, Fastify, and APIs
-- Clean architecture and maintainable codebases
-- Product-oriented thinking from interface to backend delivery
+- Production backend development with Node.js, NestJS, Fastify, and Drizzle ORM
+- Experience with REST, GraphQL, WebSockets, and real-time product flows
+- Clean architecture and maintainable codebases across frontend and backend
+- Product-oriented thinking from interface design to service delivery
 
 ---
 
 ## 🧠 Developer Mindset
 
 - Performance-first engineering
-- Scalable, maintainable architecture
+- Reusable, maintainable architecture
 - Accessible and user-focused product development
 - End-to-end thinking across UI, APIs, and data flow
 
@@ -164,7 +162,7 @@ Git · GitHub · GitHub Actions · Docker · npm · pnpm · Vercel · Figma · T
 </p>
 
 <p align="center">
-  <i>Building web products with speed, structure, and end-to-end ownership.</i>
+  <i>Building production web products with speed, structure, and end-to-end ownership.</i>
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,50:1D4ED8,100:0F2027&height=120&section=footer" />
