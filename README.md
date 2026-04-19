@@ -149,6 +149,10 @@ Jest · React Testing Library · Cypress · Playwright · GitHub Actions CI/CD �
 ## 🕒 Recent Activity
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#2](https://github.com/Mohammad-Software-Dev/WeatherApp/pull/2) in [Mohammad-Software-Dev/WeatherApp](https://github.com/Mohammad-Software-Dev/WeatherApp)
+2. 💪 Opened PR [#2](https://github.com/Mohammad-Software-Dev/WeatherApp/pull/2) in [Mohammad-Software-Dev/WeatherApp](https://github.com/Mohammad-Software-Dev/WeatherApp)
+3. 🎉 Merged PR [#1](https://github.com/Mohammad-Software-Dev/WeatherApp/pull/1) in [Mohammad-Software-Dev/WeatherApp](https://github.com/Mohammad-Software-Dev/WeatherApp)
+4. 💪 Opened PR [#1](https://github.com/Mohammad-Software-Dev/WeatherApp/pull/1) in [Mohammad-Software-Dev/WeatherApp](https://github.com/Mohammad-Software-Dev/WeatherApp)
 <!--END_SECTION:activity-->
 
 ---
