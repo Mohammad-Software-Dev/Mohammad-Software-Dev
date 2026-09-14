@@ -149,10 +149,10 @@ Jest · React Testing Library · Cypress · Playwright · GitHub Actions CI/CD �
 ## 🕒 Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned issue [#4](https://github.com/Mohammad-Software-Dev/MagnetHavoc/issues/4) in [Mohammad-Software-Dev/MagnetHavoc](https://github.com/Mohammad-Software-Dev/MagnetHavoc)
-2. ❗ Opened issue [#4](https://github.com/Mohammad-Software-Dev/MagnetHavoc/issues/4) in [Mohammad-Software-Dev/MagnetHavoc](https://github.com/Mohammad-Software-Dev/MagnetHavoc)
-3. ℹ️ Assigned issue [#3](https://github.com/Mohammad-Software-Dev/MagnetHavoc/issues/3) in [Mohammad-Software-Dev/MagnetHavoc](https://github.com/Mohammad-Software-Dev/MagnetHavoc)
-4. ❗ Opened issue [#3](https://github.com/Mohammad-Software-Dev/MagnetHavoc/issues/3) in [Mohammad-Software-Dev/MagnetHavoc](https://github.com/Mohammad-Software-Dev/MagnetHavoc)
+1. 💪 Opened PR [#2](https://github.com/Mohammad-Software-Dev/SnowDownProject/pull/2) in [Mohammad-Software-Dev/SnowDownProject](https://github.com/Mohammad-Software-Dev/SnowDownProject)
+2. ℹ️ Assigned issue [#4](https://github.com/Mohammad-Software-Dev/MagnetHavoc/issues/4) in [Mohammad-Software-Dev/MagnetHavoc](https://github.com/Mohammad-Software-Dev/MagnetHavoc)
+3. ❗ Opened issue [#4](https://github.com/Mohammad-Software-Dev/MagnetHavoc/issues/4) in [Mohammad-Software-Dev/MagnetHavoc](https://github.com/Mohammad-Software-Dev/MagnetHavoc)
+4. ℹ️ Assigned issue [#3](https://github.com/Mohammad-Software-Dev/MagnetHavoc/issues/3) in [Mohammad-Software-Dev/MagnetHavoc](https://github.com/Mohammad-Software-Dev/MagnetHavoc)
 <!--END_SECTION:activity-->
 
 ---
