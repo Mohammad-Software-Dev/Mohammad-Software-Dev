@@ -149,10 +149,10 @@ Jest · React Testing Library · Cypress · Playwright · GitHub Actions CI/CD �
 ## 🕒 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#9](https://github.com/Mohammad-Software-Dev/Resonance/pull/9) in [Mohammad-Software-Dev/Resonance](https://github.com/Mohammad-Software-Dev/Resonance)
-2. 💪 Opened PR [#8](https://github.com/Mohammad-Software-Dev/Resonance/pull/8) in [Mohammad-Software-Dev/Resonance](https://github.com/Mohammad-Software-Dev/Resonance)
-3. 🎉 Merged PR [#7](https://github.com/Mohammad-Software-Dev/Resonance/pull/7) in [Mohammad-Software-Dev/Resonance](https://github.com/Mohammad-Software-Dev/Resonance)
-4. 💪 Opened PR [#7](https://github.com/Mohammad-Software-Dev/Resonance/pull/7) in [Mohammad-Software-Dev/Resonance](https://github.com/Mohammad-Software-Dev/Resonance)
+1. ❗ Opened issue [#13](https://github.com/Mohammad-Software-Dev/Resonance/issues/13) in [Mohammad-Software-Dev/Resonance](https://github.com/Mohammad-Software-Dev/Resonance)
+2. 🎉 Merged PR [#12](https://github.com/Mohammad-Software-Dev/Resonance/pull/12) in [Mohammad-Software-Dev/Resonance](https://github.com/Mohammad-Software-Dev/Resonance)
+3. 💪 Opened PR [#12](https://github.com/Mohammad-Software-Dev/Resonance/pull/12) in [Mohammad-Software-Dev/Resonance](https://github.com/Mohammad-Software-Dev/Resonance)
+4. 🎉 Merged PR [#11](https://github.com/Mohammad-Software-Dev/Resonance/pull/11) in [Mohammad-Software-Dev/Resonance](https://github.com/Mohammad-Software-Dev/Resonance)
 <!--END_SECTION:activity-->
 
 ---
